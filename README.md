@@ -44,7 +44,7 @@ We implement appropriate security measures to protect your data from unauthorize
 ## 5. Your Rights and Choices
 - **Access & Update**: You can access and update your personal information in the app settings.
 - **Opt-out**: You can disable location access or notifications from your device settings.
-- **Delete Data**: If you wish to delete your data, you can contact us at **hamidabdullahofficial@gmail.com**.
+- **Delete Data**: If you wish to delete your data, you can contact us at **info@innspirovatetech.com**.
 
 ## 6. Third-Party Services
 Our app may include third-party services, such as Quran recitation providers or analytics tools. These services have their own privacy policies, and we encourage you to review them.
@@ -55,7 +55,7 @@ We may update this Privacy Policy periodically. Any changes will be reflected in
 ## 8. Contact Us
 If you have any questions regarding this Privacy Policy, please contact us at:
 
-**Email:** hamidabdullahofficial@gmail.com  
+**Email:** info@innspirovatetech.com 
 **Website:** [innspirovatetech.com](https://innspirovatetech.com)
 
 By using Islam Connect, you agree to this Privacy Policy.
