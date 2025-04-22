@@ -1,12 +1,14 @@
 {
   "android": {
     "latest_version": "1.2.0",
+    "update_url": "https://play.google.com/store/apps/details?id=com.innspirovate.islamconnect",
     "mandatory": false,
-    "message": "🆕 Android Update: Bug fixes and improvements"
+    "message": "🆕 Bug fixes\n📖 Tajweed Quran improvements\n🕌 Better mosque finder"
   },
   "ios": {
     "latest_version": "1.1.5",
+    "update_url": "https://apps.apple.com/app/idYOUR_APP_ID",
     "mandatory": false,
-    "message": "🆕 iOS Update: New features added"
+    "message": "🆕 iOS version includes new UI updates\n✨ Quran reader enhanced"
   }
 }
