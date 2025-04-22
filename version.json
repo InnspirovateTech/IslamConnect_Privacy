@@ -2,7 +2,7 @@
   "android": {
     "latest_version": "1.5.0",
     "update_url": "https://play.google.com/store/apps/details?id=com.innspirovate.islamconnect",
-    "mandatory": false,
+    "mandatory": true,
     "message": "🆕 Bug fixes 📖 Tajweed Quran improvements\n🕌 Better mosque finder"
   },
   "ios": {
