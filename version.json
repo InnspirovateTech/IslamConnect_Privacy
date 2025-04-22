@@ -1,0 +1,12 @@
+{
+  "android": {
+    "latest_version": "1.2.0",
+    "mandatory": false,
+    "message": "🆕 Android Update: Bug fixes and improvements"
+  },
+  "ios": {
+    "latest_version": "1.1.5",
+    "mandatory": false,
+    "message": "🆕 iOS Update: New features added"
+  }
+}
